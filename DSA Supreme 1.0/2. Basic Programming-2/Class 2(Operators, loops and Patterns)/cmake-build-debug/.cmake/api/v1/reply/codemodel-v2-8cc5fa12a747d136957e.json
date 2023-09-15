@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Class_2_Operators__loops_and_Patterns_",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Class_2_Operators__loops_and_Patterns_::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Class_2_Operators__loops_and_Patterns_-Debug-d57b011e669589efae4e.json",
+					"name" : "Class_2_Operators__loops_and_Patterns_",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/DSA(Supreme)/Weeks-2(Basic Programming-2)/Class 2(Operators, loops and Patterns)/cmake-build-debug",
+		"source" : "D:/DSA(Supreme)/Weeks-2(Basic Programming-2)/Class 2(Operators, loops and Patterns)"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

@@ -1,0 +1,6 @@
+{
+  "editor.acceptSuggestionOnEnter": "on",
+  "files.associations": {
+    "ostream": "cpp"
+  }
+}

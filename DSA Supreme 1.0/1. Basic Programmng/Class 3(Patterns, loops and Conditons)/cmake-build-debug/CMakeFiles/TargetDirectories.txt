@@ -1,0 +1,3 @@
+D:/DSA(Supreme)/Week-1 (Basic Programmng)/Class 3(Patterns, loops and Conditons)/cmake-build-debug/CMakeFiles/Class_3_Patterns__loops_and_Conditons_.dir
+D:/DSA(Supreme)/Week-1 (Basic Programmng)/Class 3(Patterns, loops and Conditons)/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/DSA(Supreme)/Week-1 (Basic Programmng)/Class 3(Patterns, loops and Conditons)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
