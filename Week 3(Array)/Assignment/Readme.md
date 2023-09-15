@@ -43,8 +43,8 @@
 
 ## Question 13: Spiral Print in a Matrix
 -  **Spiral Matrix(Leetcode):** [Link](https://leetcode.com/problems/spiral-matrix/description/)
--  **Spiral Matrix(Leetcode):** [Link](https://leetcode.com/problems/spiral-matrix-ii/description/)
--  **Spiral Matrix(Leetcode):** [Link](https://leetcode.com/problems/spiral-matrix-iii/description/)
+-  **Spiral Matrix2(Leetcode):** [Link](https://leetcode.com/problems/spiral-matrix-ii/description/)
+-  **Spiral Matrix3(Leetcode):** [Link](https://leetcode.com/problems/spiral-matrix-iii/description/)
 
 ## Question 14: Add Two Numbers Representing an Array
 - **Leetcode(Add two Number-2):** [Link](https://leetcode.com/problems/add-two-numbers/description/)
