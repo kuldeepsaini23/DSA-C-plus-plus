@@ -1,8 +1,7 @@
 # Assignment Questions
 
 ## Question 1: Two Sum
-- **GeeksforGeeks:** [Link](https://practice.geeksforgeeks.org/problems/key-pair5616/1) <font color="green">&#x2714;</font>
-
+- **GeeksforGeeks:** [Link](https://practice.geeksforgeeks.org/problems/key-pair5616/1) ✅Done
 
 ## Question 2: Find Pivot Index
 - **Leetcode:** [Link](https://leetcode.com/problems/find-pivot-index/description/)
