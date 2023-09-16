@@ -3,7 +3,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-//* two Sum Leet code
+//* Two Sum Leet code
 vector<int> twoSum(vector<int>& nums, int target) {
   vector<int> ans;
   // int n = nums.size()
@@ -24,7 +24,7 @@ vector<int> twoSum(vector<int>& nums, int target) {
     for(int i=0;i<nums.size();i++){
     int more = target - nums[i];
     if(hash.find(more) != hash.end()){
-      ans.push_back(hash[nums[i]]);
+      ans.push_back(hash[more]);
       ans.push_back(i);
       break;
     }
@@ -37,7 +37,6 @@ vector<int> twoSum(vector<int>& nums, int target) {
   return ans;        
 
 }
-
 
  
 int main(){

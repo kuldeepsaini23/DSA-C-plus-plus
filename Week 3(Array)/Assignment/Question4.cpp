@@ -59,12 +59,6 @@ int removeDuplicates(vector<int>& nums) {
   cout<<endl;
   return position;
 }
- 
-
-
-
-
-
 
 
 int main(){
