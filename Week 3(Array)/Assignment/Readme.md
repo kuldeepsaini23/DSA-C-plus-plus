@@ -1,8 +1,8 @@
 # Assignment Questions
 
 ## Question 1: Two Sum
-- **Leetcode:** [Link](https://leetcode.com/problems/two-sum/description/)--> Do it with Hashing
-- **GeeksforGeeks:** [Link](https://practice.geeksforgeeks.org/problems/key-pair5616/1)
+- **GeeksforGeeks:** [Link](https://practice.geeksforgeeks.org/problems/key-pair5616/1) <font color="green">&#x2714;</font>
+
 
 ## Question 2: Find Pivot Index
 - **Leetcode:** [Link](https://leetcode.com/problems/find-pivot-index/description/)
@@ -57,4 +57,6 @@
 # Extra Questions
 ## Question 15: Clumsy Factorial
 - **Leetcode:** [Link](https://leetcode.com/problems/clumsy-factorial/description/)
- 
+
+## Question 16: Two Sum (Do it with Hashing, Best Approach)
+- **Leetcode:** [Link](https://leetcode.com/problems/two-sum/description/)
