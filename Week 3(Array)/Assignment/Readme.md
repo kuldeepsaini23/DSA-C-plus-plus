@@ -1,7 +1,7 @@
 # Assignment Questions
 
 ## Question 1: Two Sum
-- **Leetcode:** [Link](https://leetcode.com/problems/two-sum/description/)
+- **Leetcode:** [Link](https://leetcode.com/problems/two-sum/description/)--> Do it with Hashing
 - **GeeksforGeeks:** [Link](https://practice.geeksforgeeks.org/problems/key-pair5616/1)
 
 ## Question 2: Find Pivot Index
