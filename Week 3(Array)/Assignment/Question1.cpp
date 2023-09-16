@@ -30,7 +30,7 @@ vector<int> twoSumWithTwoPointer(vector<int>& nums, int target) {
   vector<int> v;
   sort(nums.begin(),nums.end());
   int l = 0;
-  int r = nums.size();
+  int r = nums.size()-1;
 
   while(l<r){
     if(nums[l]+nums[r]==target){
