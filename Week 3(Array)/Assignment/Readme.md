@@ -10,8 +10,8 @@
 - **Leetcode:** [Link](https://leetcode.com/problems/find-pivot-index/description/)
 
 ## Question 3: Missing Number
-- **Leetcode:** [Link](https://leetcode.com/problems/missing-number/description/)
-- **GeeksforGeeks:** [Link](https://practice.geeksforgeeks.org/problems/missing-number-in-array1416/1)
+- **Leetcode: Assignment** [Link](https://leetcode.com/problems/missing-number/description/)✅Done
+- **GeeksforGeeks: ArrayClass-4** [Link](https://practice.geeksforgeeks.org/problems/missing-number-in-array1416/1)✅Done
 
 ## Question 4: Remove Duplicates from the Sorted Array
 - **Leetcode:** [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)

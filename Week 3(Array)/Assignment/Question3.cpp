@@ -5,7 +5,16 @@ using namespace std;
  //* Missing Number[1-->n] Range (may be fail in [0,1]) 
 int missingNumber(vector<int>& nums) {
   int n = nums.size();
-  int sum = ((n)*(n+1))/2;
+  // int sum = ((n)*(n+1))/2;--> in this we will not able to cover [0,1] this case
+
+  // so to sum use--> for loopp
+  int sum = 0;
+  for (int i = 0; i <= nums.size(); i++)
+  {
+    /* code */
+    sum+=nums[i];
+  }
+  
 
   int numsSum=0;
   for (int i = 0; i < n; i++)
