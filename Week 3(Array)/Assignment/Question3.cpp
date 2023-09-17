@@ -52,6 +52,32 @@ int missingNumberWithXor(vector<int>& nums) {
   }
   return ans;
 }
+
+
+//* Brute Force Linear Search
+bool linearSearch(vector<int> nums, int target){
+        for(int i = 0;i<nums.size();i++){
+            if(nums[i] == target){
+                return 1;
+            }
+        }
+        return 0;
+    }
+
+
+    int missingNumber(vector<int>& nums) {
+        int ans;
+        for(int i = 0;i<=nums.size();i++){
+            bool result = linearSearch(nums,i);
+            if(result){
+                continue;
+            }else{
+                ans = i;
+                break;
+            }
+        }
+        return ans;
+    }
  
 int main(){
  
