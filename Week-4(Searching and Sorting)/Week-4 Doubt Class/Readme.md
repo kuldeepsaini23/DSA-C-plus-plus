@@ -1,20 +1,21 @@
-# Week-4 Doubt Class
-## Matrix Diagonal sum in both direction ✅Done
+## Week-4 Doubt Class
 
-## Swap Implementation
-- **Temp Variable:**✅Done
-- **+,-:**✅Done
-- **Xor:**✅Done
- 
-## Reverse An Array
-- **Temp Array:**✅Done
-- **Single rotate k times:**✅Done
-- **Modulus:** (i+k)%n✅Done
-- **Reverse Method:** In today's class ✅Done
+**Matrix Diagonal sum in both direction** ✅Done
 
-## Rearrange leemnts by Sign(postive then Negative and Postive = Negative)
-- **Temp Array:**✅Done
-- **Two Pointer:**✅Done
+**Swap Implementation**
+- *Temp Variable:* ✅Done
+- *+,-:* ✅Done
+- *Xor:* ✅Done
 
-## Rearrange leemnts by Sign(postive then Negative and Postive = Negative)
-- **Lakshay Bhaiya Approach:**✅Done
+**Reverse An Array**
+- *Temp Array:* ✅Done
+- *Single rotate k times:* ✅Done
+- *Modulus:* (i+k)%n ✅Done
+- *Reverse Method:* In today's class ✅Done
+
+**Rearrange elements by Sign (positive then Negative and Positive = Negative)**
+- *Temp Array:* ✅Done
+- *Two Pointer:* ✅Done
+
+**Rearrange elements by Sign (positive then Negative and Positive = Negative)**
+- *Lakshay Bhaiya Approach:* ✅Done
