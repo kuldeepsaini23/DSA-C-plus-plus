@@ -2,5 +2,5 @@
 
 
 # Intersting Stuffs
-**These are the some Intreseting Questions did by me in this week:**
-- **Murder:** *CodingNinjas*[Link](https://www.codingninjas.com/studio/problems/square-root_630451?leftPanelTab=0)
+**These are the some interesting questions did by in this week:**
+- **Murder:** [*CodingNinjas*](https://www.codingninjas.com/studio/problems/square-root_630451?leftPanelTab=0)
