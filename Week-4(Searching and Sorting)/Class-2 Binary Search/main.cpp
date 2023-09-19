@@ -3,10 +3,8 @@
 using namespace std;
 
 //Bianary Search
-int searchMatrix(vector<int>& arr, int target) {
+int binarySearch(vector<int>& arr, int target, int s, int e) {
   int n = arr.size();
-  int s =0;
-  int e = n-1;
   int mid = s+(e-s)/2;
 
     while(s<=e){
@@ -24,7 +22,7 @@ int searchMatrix(vector<int>& arr, int target) {
 
 
 //* Find Pivot Element
-int findMax(int arr[], int n){
+int findMax(vector<int> arr, int n){
   int s= 0 ;
   int e = n-1;
 
@@ -61,6 +59,7 @@ int mySqrt(int x){
     }else{
       e = mid - 1;
     }
+    mid = s+(e-s)/2;
   }
   return ans;
 }
@@ -100,12 +99,20 @@ int main(){
 //  cout<<findMax(arr,n);
 
  //* Search in a Rotated Sorted Array
-//  int arr[]={12,14,16,2,4,6,8,10};
+//  vector<int> arr{12,14,16,2,4,6,8,10};
 //  int n = 8;
-//  int target = 16;
-//  cout<<searchInRotatedSortedArray(arr,n,target);
+//  int target = 10;
+//  int ans = -1;
+//  int pivotIndex = findMax(arr,n);
 
+//  if(arr[pivotIndex]>= target && arr[0]<= target){
+//     ans = binarySearch(arr,target,0,pivotIndex);
+//  }
+//  if(arr[pivotIndex+1]<=target && arr[n-1]>=target){
+//     ans = binarySearch(arr,target,pivotIndex+1,n-1);
+//  }
 
+//   cout<<ans;
 
 
  //* Sqrt of a Number

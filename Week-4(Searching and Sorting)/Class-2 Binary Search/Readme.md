@@ -13,7 +13,9 @@
 ### Sqrt(x)--> Must Add it diff problem
 - **Leetcode:** [Link](https://leetcode.com/problems/sqrtx/description/)
 - **GeeksForGeeks:** [Link](https://practice.geeksforgeeks.org/problems/square-root/1)
-- **Coding Ninjas:** [Link](https://www.codingninjas.com/studio/problems/square-root_630451)
+- **Coding Ninjas:** [Link](https://www.codingninjas.com/studio/problems/square-root-integral_624660)
+- **Coding Nijas:** [Link](https://www.codingninjas.com/studio/problems/square-root-of-an-integer_1089689)
+- **Coding Ninjas:** [Link](https://www.codingninjas.com/studio/problems/square-root-integral_893351)
 
 ### Search in 2-D Matrix
 - **Leetcode:** [Link](https://leetcode.com/problems/search-a-2d-matrix/description/)
@@ -27,5 +29,6 @@
 
 
 ## HomeWork
-### Find Minimum in Rotated Sorted Array
+### Find Minimum in Rotated Sorted Array✅Done
 ### Sqrt(x) II (Decimal)
+- **Coding Nijas:** [Link](https://www.codingninjas.com/studio/problems/square-root-decimal_1095655)
