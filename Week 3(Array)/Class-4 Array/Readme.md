@@ -1,5 +1,6 @@
 # Array Class - 4 Questions
 
+
 ## Question 1: Negative to Positive Array
 - **GeeksforGeeks:** [Link](https://practice.geeksforgeeks.org/problems/arranging-the-array1131/1) ✅Done
 
@@ -30,7 +31,7 @@
 ## Question 6: Rotate Image(By 90 Degree) Transpose then reverse(Clockwise) and Reverse then transpose(Anticlockwise)
 - **ClockWise:** [Leetcode](https://leetcode.com/problems/rotate-image/description/)✅Done
 - **AnticlockWise** [*GeeksforGeeks*](https://practice.geeksforgeeks.org/problems/rotate-by-90-degree0356/1)✅Done
-- **AnticlockWise:** [*Coding Ninjas*](https://www.codingninjas.com/studio/problems/rotate-matrix-by-90-degrees_981261?leftPanelTab=3)
+- **AnticlockWise:** [*Coding Ninjas*](https://www.codingninjas.com/studio/problems/rotate-matrix-by-90-degrees_981261?leftPanelTab=3) ✅Done (:exclamation:*Important:* Watch out this - My Approach)
 
 ## Question 7: Rearrange Element by Sign--> Must Add its variety
 - **Leetcode:** [Link](https://leetcode.com/problems/rearrange-array-elements-by-sign/description/)
