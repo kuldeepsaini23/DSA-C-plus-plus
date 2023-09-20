@@ -28,8 +28,8 @@
 
 
 ## Question 6: Rotate Image(By 90 Degree) Transpose then reverse
-- **Leetcode:** [Link](https://leetcode.com/problems/rotate-image/description/)
-- **GeeksforGeeks:** [Link](https://practice.geeksforgeeks.org/problems/rotate-by-90-degree0356/1)
+- **Leetcode:** [Link](https://leetcode.com/problems/rotate-image/description/)✅Done
+- **GeeksforGeeks:** [Link](https://practice.geeksforgeeks.org/problems/rotate-by-90-degree0356/1)✅Done
 
 ## Question 7: Rearrange Element by Sign--> Must Add its variety
 - **Leetcode:** [Link](https://leetcode.com/problems/rearrange-array-elements-by-sign/description/)
