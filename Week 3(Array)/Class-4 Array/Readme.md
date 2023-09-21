@@ -41,6 +41,7 @@
 - **Coding Nijas:** [Link](https://www.codingninjas.com/studio/problems/alternatives_893342)✅Done
 ### Variety 2 (Posi != Neg)
 - **GeeksforGeeks:** [Link](https://practice.geeksforgeeks.org/problems/array-of-alternate-ve-and-ve-nos1401/1)✅Done
+- **Coding Ninjas** [Link](https://www.codingninjas.com/studio/problems/alternate-numbers_6783445)
 
 
 
