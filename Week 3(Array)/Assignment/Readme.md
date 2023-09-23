@@ -3,11 +3,13 @@
 ## Question 1: Key-Pair(If have to return 0/1)
 - **GeeksforGeeks:** [Link](https://practice.geeksforgeeks.org/problems/key-pair5616/1) ✅Done
 - **Coding Ninjas:**[Link](https://www.codingninjas.com/studio/problems/reading_6845742?leftPanelTab=1) ✅Done
-###  Variety 2-Two Sum -->have to return index of elements (Do it with Hashing, Best Approach)
+###  Variety 2-Two Sum -->have to return the index of elements (Do it with Hashing, Best Approach)
 - **Leetcode:** [Link](https://leetcode.com/problems/two-sum/description/) ✅Done
 
 ## Question 2: Find Pivot Index
-- **Leetcode:** [Link](https://leetcode.com/problems/find-pivot-index/description/)
+- **Leetcode:** [Link](https://leetcode.com/problems/find-pivot-index/description/)✅Done
+- **Geeksforgeeks** [Link](https://practice.geeksforgeeks.org/problems/equilibrium-point-1587115620/1)✅Done
+- **Coding Ninjas** [Link](https://www.codingninjas.com/studio/problems/equilibrium-index_893014?leftPanelTab=1)✅Done
 
 ## Question 3: Missing Number
 - **Leetcode: Assignment** [Link](https://leetcode.com/problems/missing-number/description/)✅Done
