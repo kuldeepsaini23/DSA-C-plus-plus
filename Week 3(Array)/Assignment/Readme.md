@@ -16,7 +16,9 @@
 - **GeeksforGeeks: ArrayClass-4** [Link](https://practice.geeksforgeeks.org/problems/missing-number-in-array1416/1)✅Done
 
 ## Question 4: Remove Duplicates from the Sorted Array
-- **Leetcode:** [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)
+- **Leetcode:** [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)✅Done
+- **Geeksforgeeks** [Link](https://practice.geeksforgeeks.org/problems/remove-duplicate-elements-from-sorted-array/1)✅Done
+- **Coding Ninjas** [Link](https://www.codingninjas.com/studio/problems/remove-duplicates-from-sorted-array_1102307?leftPanelTab=1)✅Done
 
 ## Question 5: Maximum Average Subarray 1 (Sliding Window Algorithm)
 - **Leetcode:** [Link](https://leetcode.com/problems/maximum-average-subarray-i/description/c)
