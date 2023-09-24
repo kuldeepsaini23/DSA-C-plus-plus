@@ -21,7 +21,8 @@
 - **Coding Ninjas** [Link](https://www.codingninjas.com/studio/problems/remove-duplicates-from-sorted-array_1102307?leftPanelTab=1)✅Done
 
 ## Question 5: Maximum Average Subarray 1 (Sliding Window Algorithm)
-- **Leetcode:** [Link](https://leetcode.com/problems/maximum-average-subarray-i/description/c)
+- **Leetcode:** [Link](https://leetcode.com/problems/maximum-average-subarray-i/description/c)✅Done
+- **Return First Index: **[*GeeksForGeeks*](https://practice.geeksforgeeks.org/problems/maximum-average-subarray5859/1)✅Done
 
 ## Question 6: Sort Colors
 - **Leetcode:** [Link](https://leetcode.com/problems/sort-colors/)
@@ -61,7 +62,9 @@
 - **GeeksforGeeks:** [Link](https://practice.geeksforgeeks.org/problems/factorials-of-large-numbers2508/1)
 
 # Extra Questions
-## Question 15: Clumsy Factorial
-- **Leetcode:** [Link](https://leetcode.com/problems/clumsy-factorial/description/)
+- **Clumsy Factorial:** [Leetcode](https://leetcode.com/problems/clumsy-factorial/description/)
+- **Maximum of all subarrays of size k:** [GeeksForGeeks](https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k3101/1)
+- **Maximum subarray:** [Coding Ninjas](https://www.codingninjas.com/studio/problems/maximum-subarray_893296?leftPanelTab=0)
+
 
 
