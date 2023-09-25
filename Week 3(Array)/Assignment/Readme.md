@@ -25,8 +25,9 @@
 - **Return First Index: **[*GeeksForGeeks*](https://practice.geeksforgeeks.org/problems/maximum-average-subarray5859/1)✅Done
 
 ## Question 6: Sort Colors
-- **Leetcode:** [Link](https://leetcode.com/problems/sort-colors/)
-- **GeeksforGeeks:** [Link](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1)
+- **Leetcode:** [Link](https://leetcode.com/problems/sort-colors/)✅Done
+- **GeeksforGeeks:** [Link](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1)✅Done
+- **Codig Ninjas:** [Link](https://www.codingninjas.com/studio/problems/sort-an-array-of-0s-1s-and-2s_892977)✅Done
 
 ## Question 7: Move all negative numbers to the left (Dutch National Flag Algorithm)
 - **GeeksforGeeks:** [Link](https://practice.geeksforgeeks.org/problems/move-all-negative-elements-to-end1813/1) (Move negative numbers to the right)
