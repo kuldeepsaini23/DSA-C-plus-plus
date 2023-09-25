@@ -22,7 +22,7 @@
 
 ## Question 5: Maximum Average Subarray 1 (Sliding Window Algorithm)
 - **Leetcode:** [Link](https://leetcode.com/problems/maximum-average-subarray-i/description/c)✅Done
-- **Return First Index: **[*GeeksForGeeks*](https://practice.geeksforgeeks.org/problems/maximum-average-subarray5859/1)✅Done
+- **Return First Index:** [*GeeksForGeeks*](https://practice.geeksforgeeks.org/problems/maximum-average-subarray5859/1)✅Done
 
 ## Question 6: Sort Colors
 - **Leetcode:** [Link](https://leetcode.com/problems/sort-colors/)✅Done
@@ -30,7 +30,8 @@
 - **Codig Ninjas:** [Link](https://www.codingninjas.com/studio/problems/sort-an-array-of-0s-1s-and-2s_892977)✅Done
 
 ## Question 7: Move all negative numbers to the left (Dutch National Flag Algorithm)
-- **GeeksforGeeks:** [Link](https://practice.geeksforgeeks.org/problems/move-all-negative-elements-to-end1813/1) (Move negative numbers to the right)
+- **Coding Ninjas:** [Link](https://www.codingninjas.com/studio/problems/move-all-negative-numbers-to-beginning-and-positive-to-end_1112620?leftPanelTab=1)✅Done
+- **Move negative numbers to the right:** [*GeeksforGeeks*](https://practice.geeksforgeeks.org/problems/move-all-negative-elements-to-end1813/1) ✅Done
 
 ## Question 8: Find Duplicate Number
 - **Leetcode:** [Link](https://leetcode.com/problems/find-the-duplicate-number/description/)
