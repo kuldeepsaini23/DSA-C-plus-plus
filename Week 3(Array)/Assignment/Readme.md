@@ -33,22 +33,24 @@
 - **Coding Ninjas:** [Link](https://www.codingninjas.com/studio/problems/move-all-negative-numbers-to-beginning-and-positive-to-end_1112620?leftPanelTab=1)✅Done
 - **Move negative numbers to the right:** [*GeeksforGeeks*](https://practice.geeksforgeeks.org/problems/move-all-negative-elements-to-end1813/1) ✅Done
 
-## Question 8: Find Duplicate Number
-- **Leetcode:** [Link](https://leetcode.com/problems/find-the-duplicate-number/description/)
-- **GeeksforGeeks:** [Link](https://practice.geeksforgeeks.org/problems/find-duplicates-in-an-array/1)
+## Question 8: Find Duplicate Number(Only Return Duplicate)
+- **Leetcode:** [Link](https://leetcode.com/problems/find-the-duplicate-number/description/)✅Done
+- **GeeksforGeeks:** [Link](https://practice.geeksforgeeks.org/problems/find-duplicates-in-an-array/1)✅Done
+- **Coding Ninjas:** [Link](https://www.codingninjas.com/studio/problems/find-duplicate_625160)
 
 ## Question 9: Missing Element from an Array with duplicates
-- **GeeksforGeeks:** [Link](https://practice.geeksforgeeks.org/problems/find-missing-and-repeating2512/1)
+- **GeeksforGeeks:** [Link](https://practice.geeksforgeeks.org/problems/find-missing-and-repeating2512/1)✅Done
+- - **Coding Ninjas:** [Link](https://www.codingninjas.com/studio/problems/missing-and-repeating-numbers_873366)✅Done
 
 ## Question 10: First Repeating Element
-- **GeeksforGeeks:** [Link](https://practice.geeksforgeeks.org/problems/first-repeating-element4018/1)
-- **Coding Ninjas:** [Link](https://www.codingninjas.com/studio/problems/missing-and-repeating-numbers_873366)
+- **GeeksforGeeks:** [Link](https://practice.geeksforgeeks.org/problems/first-repeating-element4018/1)✅Done
+
 
 ## Question 11: Common Elements in 3 Sorted Arrays
-- **GeeksforGeeks:** [Link](https://practice.geeksforgeeks.org/problems/common-elements1132/1)
+- **GeeksforGeeks:** [Link](https://practice.geeksforgeeks.org/problems/common-elements1132/1)✅Done
 
 ## Question 12: Wave Print in Matrix (2-D Array)
-- **Coding Ninjas:** [Link](https://www.codingninjas.com/studio/problems/print-like-a-wave_893268)
+- **Coding Ninjas:** [Link](https://www.codingninjas.com/studio/problems/print-like-a-wave_893268)✅Done
 
 ## Question 13: Spiral Print in a Matrix
 -  **Spiral Matrix(Leetcode):** [Link](https://leetcode.com/problems/spiral-matrix/description/)
