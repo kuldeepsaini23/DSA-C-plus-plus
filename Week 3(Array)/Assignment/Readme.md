@@ -40,7 +40,7 @@
 
 ## Question 9: Missing Element from an Array with duplicates
 - **GeeksforGeeks:** [Link](https://practice.geeksforgeeks.org/problems/find-missing-and-repeating2512/1)✅Done
-- - **Coding Ninjas:** [Link](https://www.codingninjas.com/studio/problems/missing-and-repeating-numbers_873366)✅Done
+- **Coding Ninjas:** [Link](https://www.codingninjas.com/studio/problems/missing-and-repeating-numbers_873366)✅Done
 
 ## Question 10: First Repeating Element
 - **GeeksforGeeks:** [Link](https://practice.geeksforgeeks.org/problems/first-repeating-element4018/1)✅Done
