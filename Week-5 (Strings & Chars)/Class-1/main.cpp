@@ -268,9 +268,24 @@ int main(){
   // }
 
   //* 11. Substring
-  string str1 = "Kuldeep";
-  string str2 = str1.substr(2,4);
-  cout<<str2<<endl;
+  // string str1 = "Kuldeep";
+  // string str2 = str1.substr(2,4);
+  // cout<<str2<<endl;
+  
+
+  char ch[5];
+
+  cin>>ch;
+
+  cout<<ch<<endl;
+  int size = sizeof(ch)/sizeof(char);
+  cout<<"Size of Array: "<<size<<endl;
+  cout<<"Printing through loop: "<<endl;
+  for (int i = 0; i < size; i++)
+  {
+    /* code */
+    cout<<ch[i]<<" ";
+  }
   
  return 0;
 }
