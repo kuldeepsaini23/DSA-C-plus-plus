@@ -1,40 +1,74 @@
 #include<iostream>
+#include<set>
+#include<algorithm>
 #include<vector>
 using namespace std;
 
- //*K-diff Pairs in an Array
-  //Binary search will ne used so
-  bool binarySearch(vector<int> arr,int target){
-    int s=0;
-    int e = arr.size()-1;
+ //!K-diff Pairs in an Array
 
-    while(s<=e){
-      int mid = s+(e-s)/2;
+ //Brute force
 
-      if(arr[mid]==target){
-        return true;
-      }else if(arr[mid]>target){
-        e=mid-1;
-      }else{
-        s = mid+1;
-      }
+
+ //Two pointer
+ int findPairsTwoPointer(vector<int>& nums, int k){
+  sort(nums.begin(), nums.end());
+  set<pair<int,int>> ans;
+  int i=0,j=1;
+  while(j<nums.size()){
+    int diff = nums[j] - nums[i];
+    cout<<diff<<endl;
+    if(diff == k){
+      cout<<"Iam here"<<endl;
+      ans.insert({nums[i],nums[j]});
+      i++, j++;
+    }else if(diff<k){
+      j++;
+    }else{
+      i++;
     }
-    return false;
+    if(i==j) j++;
   }
+
+  return ans.size();
+ }
+
+
+
+  //Binary search will ne used so
+bool binarySearch(vector<int>& arr,int s,int target){
+  int e = arr.size()-1;
+  while(s<=e){
+    int mid = s+(e-s)/2;
+    if(arr[mid]==target){
+      return true;
+    }else if(arr[mid]>target){
+      e=mid-1;
+    }else{
+      s = mid+1;
+    }
+  }
+  return false;
+}
  
 int main(){
 
   vector<int> arr = {3,1,4,1,5};
   int k = 2;
-  int pairs = 0;
+
+  //* Two pointer approach
+  // cout<<findPairsTwoPointer(arr,k)<<endl;
+
+  //* Binary search approach
+  set<pair<int,int>> ans;
+  sort(arr.begin(),arr.end());
   for(int i =0; i<arr.size(); i++){
     int target = arr[i]+k;
-    bool searching = binarySearch(arr,target);
+    bool searching = binarySearch(arr,i+1,target);
     if(searching){
-      pairs++;
+      ans.insert({arr[i],target});
     }
   }
-  cout<<pairs<<endl;
+  cout<<ans.size()<<endl;
       
  return 0;
 }
