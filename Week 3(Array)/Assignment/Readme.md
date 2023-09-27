@@ -53,7 +53,10 @@
 - **Coding Ninjas:** [Link](https://www.codingninjas.com/studio/problems/print-like-a-wave_893268)✅Done
 
 ## Question 13: Spiral Print in a Matrix
--  **Spiral Matrix(Leetcode):** [Link](https://leetcode.com/problems/spiral-matrix/description/)
+-  **Spiral Matrix(Leetcode):** [Link](https://leetcode.com/problems/spiral-matrix/description/)✅Done
+-  **GeeksForGeeks:** [Link](https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1)✅Done
+-  **Coding Ninjas:** [Link](https://www.codingninjas.com/studio/problems/print-spiral_547?leftPanelTab=1)✅Done
+-  **Find Kth Element in Spiral Matrix:** [GeeksforGeeks](https://practice.geeksforgeeks.org/problems/spiral-matrix--141631/1)✅Done
 -  **Spiral Matrix2(Leetcode):** [Link](https://leetcode.com/problems/spiral-matrix-ii/description/)
 -  **Spiral Matrix3(Leetcode):** [Link](https://leetcode.com/problems/spiral-matrix-iii/description/)
 
