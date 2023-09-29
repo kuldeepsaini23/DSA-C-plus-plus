@@ -14,7 +14,7 @@
 - **Coding Ninjas:** [Link](https://www.codingninjas.com/studio/problems/first-and-last-position-of-an-element-in-sorted-array_1082549?leftPanelTab=1)✅Done
 
 ## Question 4: Total Occurences in a sorted array 
-- **Coding Ninjas:** [Link](https://practice.geeksforgeeks.org/problems/last-duplicate-element-in-a-sorted-array5539/1)✅Done
+- **Coding Ninjas:** [Link](https://www.codingninjas.com/studio/problems/occurrence-of-x-in-a-sorted-array_630456?leftPanelTab=1)✅Done
 - **GeeksforGeeks:** [Link](https://practice.geeksforgeeks.org/problems/number-of-occurrence2259/1)✅Done
 
 ## Question 5: Find the Missing Element in a sorted array
@@ -23,10 +23,10 @@
 ## Question 6: Peak Elemnt in Mountain Array
 - **Leetcode:** [Link](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/)✅Done
 - **GeeksforGeeks:** [Link](https://practice.geeksforgeeks.org/problems/peak-element/1)✅Done
-- **GeeksforGeeks:** [Link](https://practice.geeksforgeeks.org/problems/find-the-highest-number2259/1)✅Done
+- **Return Element:** [GeeksforGeeks](https://practice.geeksforgeeks.org/problems/find-the-highest-number2259/1)✅Done
 
 ### Variety-2
-- **Coding Ninjas:** [Link](https://www.codingninjas.com/studio/problems/find-peak-element_1081482)✅Done
+- **More than One Peak But return Highest peak:** [Coding Ninjas](https://www.codingninjas.com/studio/problems/find-peak-element_1081482)✅Done
 
 # Extra Questions
 ## Find the last duplicate element in a sorted array
