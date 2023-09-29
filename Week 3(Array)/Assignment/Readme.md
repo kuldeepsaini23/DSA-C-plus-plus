@@ -61,12 +61,12 @@
 -  **Spiral Matrix3(Leetcode):** [Link](https://leetcode.com/problems/spiral-matrix-iii/description/)
 
 ## Question 14: Add Two Numbers Representing an Array
-- **Leetcode(Add two Number-2):** [Link](https://leetcode.com/problems/add-two-numbers/description/)
-- **Leetcode(Add two number-2):** [Link](https://leetcode.com/problems/add-two-numbers-ii/description/)
-- **GeeksforGeeks:** [Link](https://practice.geeksforgeeks.org/problems/add-two-numbers-represented-by-two-arrays2408/1)
+- **Add two Number-1(Use List Node):** [Leetcode](https://leetcode.com/problems/add-two-numbers/description/)
+- **Add two number-2(Use List Node):** [Leetcode](https://leetcode.com/problems/add-two-numbers-ii/description/)
+- **GeeksforGeeks:** [Link](https://practice.geeksforgeeks.org/problems/add-two-numbers-represented-by-two-arrays2408/1)✅Done
 
 ## Question 14(b): Factorial of a Large Number
-- **GeeksforGeeks:** [Link](https://practice.geeksforgeeks.org/problems/factorials-of-large-numbers2508/1)
+- **GeeksforGeeks:** [Link](https://practice.geeksforgeeks.org/problems/factorials-of-large-numbers2508/1)✅Done
 
 # Extra Questions
 - **Clumsy Factorial:** [Leetcode](https://leetcode.com/problems/clumsy-factorial/description/)
