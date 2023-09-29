@@ -36,7 +36,7 @@
 ## Question 8: Find Duplicate Number(Only Return Duplicate)
 - **Leetcode:** [Link](https://leetcode.com/problems/find-the-duplicate-number/description/)✅Done
 - **GeeksforGeeks:** [Link](https://practice.geeksforgeeks.org/problems/find-duplicates-in-an-array/1)✅Done
-- **Coding Ninjas:** [Link](https://www.codingninjas.com/studio/problems/find-duplicate_625160)
+- **Eleemnts Present (0 to n-2) Use sorting:** [Coding Ninjas](https://www.codingninjas.com/studio/problems/find-duplicate_625160)✅Done
 
 ## Question 9: Missing Element from an Array with duplicates
 - **GeeksforGeeks:** [Link](https://practice.geeksforgeeks.org/problems/find-missing-and-repeating2512/1)✅Done
@@ -44,7 +44,6 @@
 
 ## Question 10: First Repeating Element
 - **GeeksforGeeks:** [Link](https://practice.geeksforgeeks.org/problems/first-repeating-element4018/1)✅Done
-
 
 ## Question 11: Common Elements in 3 Sorted Arrays
 - **GeeksforGeeks:** [Link](https://practice.geeksforgeeks.org/problems/common-elements1132/1)✅Done
@@ -72,6 +71,14 @@
 - **Clumsy Factorial:** [Leetcode](https://leetcode.com/problems/clumsy-factorial/description/)
 - **Maximum of all subarrays of size k:** [GeeksForGeeks](https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k3101/1)
 - **Maximum subarray:** [Coding Ninjas](https://www.codingninjas.com/studio/problems/maximum-subarray_893296?leftPanelTab=0)
+- **Reverse an Array:** [Coding Ninjas](https://codingninjas.com/studio/problems/reverse-the-array_1262298?leftPanelTab=2)✅Done
+
+### Same Questions with Different returns(Just like Question 2)
+- **Balanced Array:** [GeeksforGeeks](https://practice.geeksforgeeks.org/problems/balanced-array07200720/1)✅Done
+- **Equal Sum:** [GeeksforGeeks](https://practice.geeksforgeeks.org/problems/equal-sum0810/1)✅Done
+- **Equilibrium index of an array:** [GeeksforGeeks](https://practice.geeksforgeeks.org/problems/equilibrium-index-of-an-array/1)✅Done
+
+
 
 
 
