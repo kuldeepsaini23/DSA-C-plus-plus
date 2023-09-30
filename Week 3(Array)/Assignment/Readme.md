@@ -56,7 +56,7 @@
 -  **GeeksForGeeks:** [Link](https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1)✅Done
 -  **Coding Ninjas:** [Link](https://www.codingninjas.com/studio/problems/print-spiral_547?leftPanelTab=1)✅Done
 -  **Find Kth Element in Spiral Matrix:** [GeeksforGeeks](https://practice.geeksforgeeks.org/problems/spiral-matrix--141631/1)✅Done
--  **Spiral Matrix2(Leetcode):** [Link](https://leetcode.com/problems/spiral-matrix-ii/description/)
+-  **Spiral Matrix2(Leetcode):** [Link](https://leetcode.com/problems/spiral-matrix-ii/description/)✅Done
 -  **Spiral Matrix3(Leetcode):** [Link](https://leetcode.com/problems/spiral-matrix-iii/description/)
 
 ## Question 14: Add Two Numbers Representing an Array
