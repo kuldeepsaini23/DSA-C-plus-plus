@@ -10,12 +10,15 @@
 ## Question 2: Sort Colors
 - Go to Assignment Question 6: [Link](https://github.com/kuldeepsaini23/DSA-C-plus-plus/tree/main/Week%203(Array)/Assignment)✅Done
 
-## Question 3: Rotate Array(D-> Steps to Rotate and N-> No of elements
+## Question 3: Rotate Array end to start
+#### rotatedArr[(i + k)%n] = arr[i] Use this formula to get a new Index
+D-> Steps to Rotate and N-> No of elements
 - **Leetcode:** [Link](https://leetcode.com/problems/rotate-array/description/)✅Done
 -  **D<=N** [GeeksforGeeks](https://practice.geeksforgeeks.org/problems/rotate-array-by-n-elements-1587115621/1)✅Done
 -  **D >= N(d=d%n):** [GeeksforGeeks](https://practice.geeksforgeeks.org/problems/reversal-algorithm5340/1)✅Done
-### Variety -2
--  **Rotate from start to end:** [*CodingNijas*](https://www.codingninjas.com/studio/problems/rotate-array_1230543?leftPanelTab=0)--> !!!Write it in notes
+### Variety -2 (Rotate Array start to end)
+#### rotatedArr[(i - k + n)%n] = arr[i] Use this formula to get a new Index
+-  **Rotate from start to end:** [*CodingNijas*](https://www.codingninjas.com/studio/problems/rotate-array_1230543?leftPanelTab=0)✅Done 
 
 ## Question 4: Missing Number
 -  *Go to Assignment Question 3:* [Link](https://github.com/kuldeepsaini23/DSA-C-plus-plus/tree/main/Week%203(Array)/Assignment)✅Done
