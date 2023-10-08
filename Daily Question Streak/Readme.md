@@ -1,3 +1,11 @@
+<!-- **:** [Leetcode]()
+**:** [GeeksForGeeks]()
+**:** [CodingNinja]() -->
+<!-- 
+**Leetcode:** [Link]()
+**GeeksForGeeks:** [Link]()
+**CodingNinja:** [Link]() -->
+
 # Leetcode daily Challange
 - **29/09/2023**
   - Monotonic Array: [Link](https://leetcode.com/problems/monotonic-array/description/?envType=daily-question&envId=2023-09-29)
@@ -8,6 +16,14 @@
 
 - **3/10/2023**
   - Number of Good Pairs: [Link](https://leetcode.com/problems/number-of-good-pairs/description/?envType=daily-question&envId=2023-10-03)
+
+
+# Good Questions
+## Arrays
+- **Beautiful Towers I:** [Leetcode](https://leetcode.com/problems/beautiful-towers-i)
+- **Beautiful Towers I:** [Leetcode](https://leetcode.com/problems/beautiful-towers-ii)
+- **Beautiful Arrangement II:** [Leetcode](https://leetcode.com/problems/beautiful-arrangement-ii)
+- **Murder:** [CodingNinja](https://www.codingninjas.com/studio/problems/square-root_630451)
 
 # Hard Questions
 - **Split Array Largest Sum:** [Leetcode](https://leetcode.com/problems/split-array-largest-sum/description/)
