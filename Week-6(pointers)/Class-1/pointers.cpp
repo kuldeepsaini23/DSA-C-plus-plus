@@ -155,10 +155,50 @@ int main(){
   // cout<<*(q+4)<<endl;
 
   //! Pointer on Char Array
-  char ch[50] = "kuldeep";
-  char *cptr = ch;
+  // char ch[50] = "kuldeep";
+  // char *cptr = ch;
+  // cout<<cptr;
+  
+  //* Question 1
+  // char ch[50] = "love";
+  // char *cptr = &ch[0];
+  // cout<<"Ch: "<<endl;
+  // cout<<ch<<endl;
+  // cout<<&ch<<endl;
+  // cout<<ch[0]<<endl;
+  // cout<<"cptr: "<<endl;
+  // cout<<&cptr<<endl;
+  // cout<<*cptr<<endl;
+  // cout<<cptr<<endl;
+
+  //* Question 2 
+  // char ch[50] = "statement";
+  // char *cptr = &ch[0];
+  // cout<<"Ch: "<<endl;
+  // cout<<ch<<endl;
+  // cout<<&ch<<endl;
+  // cout<<*(ch+3)<<endl;
+  // cout<<"cptr: "<<endl;
+  // cout<<cptr<<endl;  
+  // cout<<&cptr<<endl;
+  // cout<<*(cptr+3)<<endl;
+  // cout<<cptr+2<<endl;
+  // cout<<*cptr<<endl;
+  // cout<<cptr+8<<endl;
+
+  //* Question 3(Exception)
+  char ch = 'a';
+  char *cptr = &ch;
   cout<<cptr;
 
+  //* 4. Bad Practice
+  // char ch[10] = "saini";
+  // char *cptr = ch;
+
+  //! Stored in temp menory for limited Time
+  // char *c = "saini";
+  // cout<<c<<endl;
+  
   
 
 
