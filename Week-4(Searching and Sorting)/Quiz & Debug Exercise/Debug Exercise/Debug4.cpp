@@ -10,10 +10,10 @@ int findPeakElement(vector<int>& nums) {
   while(low < high){
       int mid = (low + high) >> 1; //* Changed this
       if(nums[mid] > nums[mid+1]){ //* Renove equal to sign
-          high = mid;
+        high = mid;
       }
       else{
-          low = mid+1; //* added +1
+        low = mid+1; //* added +1
       }
   }
   return low;//*Return low
