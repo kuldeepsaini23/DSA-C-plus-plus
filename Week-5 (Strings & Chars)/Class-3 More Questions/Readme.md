@@ -16,6 +16,8 @@
 
 ## 4. Find and Replace Pattern
 - **Leetcode:** [Link](https://leetcode.com/problems/find-and-replace-pattern/description/)
-- 
+
 
 # Homework 
+## 5. Number of laser beam in the bank
+- **Leetcode:** [Link](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/)

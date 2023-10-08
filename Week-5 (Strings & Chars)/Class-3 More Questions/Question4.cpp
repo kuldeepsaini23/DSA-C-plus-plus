@@ -19,7 +19,7 @@ void createMapping(string &str){
   //update the string
   for(int i=0; i<str.length(); i++){
     char ch = str[i];
-    ch = mapping[ch];
+    str[i] = mapping[ch];
   }
 }
 
@@ -28,6 +28,7 @@ vector<string> findAndReplacePattern(vector<string>& words, string pattern) {
 
   //firstly normalize the pattern
   createMapping(pattern);
+  cout<<pattern<<endl;
 
   //saare words k sath khelna hh
   for(string s:words){
@@ -41,12 +42,12 @@ vector<string> findAndReplacePattern(vector<string>& words, string pattern) {
       ans.push_back(s);
     }
   }
-
+  return ans;
 }
 
 int main(){
-  vector<string> words = {""};
-  string pattern = "";
-      
+  vector<string> words = {"foo","abb","joo"};
+  string pattern = "pqq";
+  findAndReplacePattern(words,pattern);
  return 0;
 }

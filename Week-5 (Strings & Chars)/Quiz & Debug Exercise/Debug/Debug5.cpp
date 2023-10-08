@@ -23,7 +23,7 @@ string sortVowels(string s) {
     int j=0;
     for(int i=0;i<t.length();i++){
         if(isVowel(t[i])) {
-          t[i]=vowel[j++];//* Changed ==j to j++
+          t[i]=vowel[j++];//* Changed ++j to j++
         }
     }
     

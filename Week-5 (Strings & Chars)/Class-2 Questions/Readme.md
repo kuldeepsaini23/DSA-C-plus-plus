@@ -51,7 +51,7 @@
 - **InterviewBit**: [Link](https://www.interviewbit.com/problems/remove-consecutive-characters/)
 - **Coding Ninjas:** [Link](https://www.codingninjas.com/codestudio/problems/remove-consecutive-duplicates_1088929?leftPanelTab=0)
 
-## 2.  Remove all occurances of a substring Used these Two functions
+## 2.  Remove all occurances of a substring Used these Two functions --> In week-6 Doubt class
 - (a) String find function complexity and their named algo 
 - (b) Implement string find function
  
