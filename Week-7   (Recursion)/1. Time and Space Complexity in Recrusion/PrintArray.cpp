@@ -5,7 +5,7 @@ using namespace std;
 //* Print Array
 void printArray(int a[], int n){
   if(n==0) return;
-  cout<<a<<" ";
+  cout<<*a<<" ";
   printArray(a+1, n-1);
 }
 
