@@ -79,6 +79,7 @@
 - **Equilibrium index of an array:** [GeeksforGeeks](https://practice.geeksforgeeks.org/problems/equilibrium-index-of-an-array/1)✅Done
 
 
+- **Maximum Subarray(Kadane's Algo)** [Leetcode](https://leetcode.com/problems/maximum-subarray/)✅Done
 
 
 
