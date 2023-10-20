@@ -35,14 +35,14 @@ An anagram is a word or phrase formed by rearranging the letters of a different 
 
 ## Links to Problem Statements -->
 
-- **LeetCode:** [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
-- **GeeksforGeeks:** [Anagram](https://practice.geeksforgeeks.org/problems/anagram-1587115620/1)
-- **CodingNinjas:** [Anagram Pairs](https://www.codingninjas.com/studio/problems/anagram-pairs_626517)
+- **LeetCode:** [Valid Anagram](https://leetcode.com/problems/valid-anagram/)✅Done
+- **GeeksforGeeks:** [Anagram](https://practice.geeksforgeeks.org/problems/anagram-1587115620/1)✅Done
+- **CodingNinjas:** [Anagram Pairs](https://www.codingninjas.com/studio/problems/anagram-pairs_626517)✅Done
 
 ### 2. Reverse Only String
-- **LeetCode:** [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/description/)
-- **GeeksforGeeks:** [Link](https://practice.geeksforgeeks.org/problems/special-array-reversal2328/1)
-- **CodingNinja:** [Link](https://www.codingninjas.com/studio/problems/reverse-only-letters_1235236)
+- **LeetCode:** [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/description/)✅Done
+- **GeeksforGeeks:** [Link](https://practice.geeksforgeeks.org/problems/special-array-reversal2328/1)✅Done
+- **CodingNinja:** [Link](https://www.codingninjas.com/studio/problems/reverse-only-letters_1235236)✅Done
 
 
 ### 3. Longest Common Prefix
@@ -55,15 +55,14 @@ An anagram is a word or phrase formed by rearranging the letters of a different 
 
 ### 4. Reverse Vowels
 - **LeetCode:** [Link](https://leetcode.com/problems/reverse-vowels-of-a-string/)✅Done
-- **GeeksforGeeks:** [Reverse Vowels](https://practice.geeksforgeeks.org/problems/reversing-the-vowels5304/1)
-- **CodingNinja:** [Reverse Vowels](https://practice.geeksforgeeks.org/problems/reversing-the-vowels5304/1)
+- **GeeksforGeeks:** [Reverse Vowels](https://practice.geeksforgeeks.org/problems/reversing-the-vowels5304/1)✅Done
+- **CodingNinja:** [Reverse Vowels](https://www.codingninjas.com/studio/problems/reverse-vowels-in-a-string_1231000)✅Done
 
 
 ### 5. Isomorphic Strings
 - **LeetCode:** [Link](https://leetcode.com/problems/isomorphic-strings/)✅Done
-- **GeeksForGeeks:** [Link](https://practice.geeksforgeeks.org/problems/isomorphic-strings-1587115620/1)
-- **CodingNinja:** [Link](https://www.codingninjas.com/studio/problems/isomorphic-strings-_1117636)
-- **CodingNinja:** [Link](https://www.codingninjas.com/studio/problems/isomorphic-strings_1117636)
+- **GeeksForGeeks:** [Link](https://practice.geeksforgeeks.org/problems/isomorphic-strings-1587115620/1)✅Done
+- **CodingNinja:** [Link](https://www.codingninjas.com/studio/problems/isomorphic-strings-_1117636)✅Done
 
 ### 6. Group Anagrams
 - **LeetCode:** [Link](https://leetcode.com/problems/group-anagrams/)✅Done
@@ -72,15 +71,15 @@ An anagram is a word or phrase formed by rearranging the letters of a different 
 
 ### 7. Longest Palindrome Substring
 - **LeetCode:** [Link](https://leetcode.com/problems/longest-palindromic-substring/)✅Done
-- **GeeksForGeeks:** [Link](https://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string1956/1)
-- **GeeksForGeeks:** [Link](https://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string3411/1)
-- **CodingNinja:** [Link](https://www.codingninjas.com/studio/problems/longest-palindromic-substring_758900)
+- **GeeksForGeeks:** [Link](https://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string1956/1)✅Done
+- **GeeksForGeeks:** [Link](https://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string3411/1)✅Done
+- **CodingNinja:** [Link](https://www.codingninjas.com/studio/problems/longest-palindromic-substring_758900)✅Done
 
 
 ### 8. String to Integer
 - **LeetCode:** [Link](https://leetcode.com/problems/string-to-integer-atoi/)✅Done
-- **GeeksForGeeks:** [Link](https://practice.geeksforgeeks.org/problems/implement-atoi/1)
-- **InterviewBit:** [Link](https://www.interviewbit.com/problems/atoi/)
+- **GeeksForGeeks:** [Link](https://practice.geeksforgeeks.org/problems/implement-atoi/1)✅Done
+- **InterviewBit:** [Link](https://www.interviewbit.com/problems/atoi/)✅Done
 
 ### 9. String Compression
 - **LeetCode:** [Link](https://leetcode.com/problems/string-compression/)✅Done
@@ -108,7 +107,7 @@ An anagram is a word or phrase formed by rearranging the letters of a different 
 - **Geeksforgeeks:** [Link](https://practice.geeksforgeeks.org/problems/rearrange-characters4649/1)
 - **CodingNinja:** [Link](https://www.codingninjas.com/studio/problems/rearrange-string_982765)
 
-### 14. Find the Index of First Occurance(Sliding Window)
+### 14. Find the Index of First Occurrence(Sliding Window)
 - **LeetCode:** [Link](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)✅Done
 - **Geeeksforgeeks:** [Link](https://practice.geeksforgeeks.org/problems/index-of-the-first-occurrence-of-pattern-in-a-text/1)
 
@@ -125,7 +124,7 @@ An anagram is a word or phrase formed by rearranging the letters of a different 
 - **LeetCode:** [Link](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/description/)
 
 ### 18. Implement std::string::erase()
-- This is implemented in Week-6 doubt class with custom substr and concat function also.
+- This is implemented in the Week-6 doubt class with custom substr and concat function.
 
 
 # Extras
