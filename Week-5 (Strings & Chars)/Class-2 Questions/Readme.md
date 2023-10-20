@@ -9,20 +9,15 @@
 
 ## 2. Remove all occurrences of a substring
 ### Difficulty: Medium
-- **Leetcode**: [Link](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/)
-- **GeeksforGeeks**: [Link](https://practice.geeksforgeeks.org/problems/remove-all-occurrences-of-a-substring1648/1)
-- **Hackerrank**: [Link](https://www.hackerrank.com/challenges/morgan-and-a-string/problem)
-- **InterviewBit**: [Link](https://www.interviewbit.com/problems/remove-consecutive-characters/)
-- **Coding Ninjas:** [Link](https://www.codingninjas.com/codestudio/problems/remove-all-occurrences-of-a-substring_1088930?leftPanelTab=0)
-
+- **Leetcode**: [Link](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/)✅Done
 
 ## 3. Valid Palindrome - II
 ### Difficulty: Easy
-- **Leetcode**: [Link](https://leetcode.com/problems/valid-palindrome-ii/)
-- **GeeksforGeeks**: [Link](https://practice.geeksforgeeks.org/problems/palindrome-string0817/1)
+- **Leetcode**: [Link](https://leetcode.com/problems/valid-palindrome-ii/)✅Done
+- **GeeksforGeeks**: [Link](https://practice.geeksforgeeks.org/problems/palindrome-string0817/1)✅Done
 - **Hackerrank**: [Link](https://www.hackerrank.com/challenges/palindrome-index/problem)
-- **InterviewBit**: [Link](https://www.interviewbit.com/problems/remove-consecutive-characters/)
-- **Coding Ninjas:** [Link](https://www.codingninjas.com/codestudio/problems/valid-palindrome_1088931?leftPanelTab=0)
+- **InterviewBit**: [Link](https://www.interviewbit.com/problems/palindrome-string/)
+- **Coding Ninjas:** [Link](https://www.codingninjas.com/studio/problems/check-if-the-string-is-a-palindrome_1062633)
 
 ## 4. Minimum Time Difference
 ### Difficulty: Medium
