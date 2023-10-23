@@ -27,3 +27,4 @@
 
 # Hard Questions
 - **Split Array Largest Sum:** [Leetcode](https://leetcode.com/problems/split-array-largest-sum/description/)
+- **Largest rectangular sub-matrix whose sum is 0:** [GeeksForGeeks](https://practice.geeksforgeeks.org/problems/largest-rectangular-sub-matrix-whose-sum-is-0/1)
