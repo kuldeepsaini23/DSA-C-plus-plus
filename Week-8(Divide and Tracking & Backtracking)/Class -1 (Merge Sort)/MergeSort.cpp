@@ -5,8 +5,8 @@ using namespace std;
 void merge(int arr[], int s, int e){
   int mid = (s+e)/2;
 
-  int lengthLeft = mid-s+1;
-  int lengthRight = e-mid;
+  int lengthLeft = mid - s+1;
+  int lengthRight = e - mid;
 
   //Create Left and Right Array
   int *left = new int[lengthLeft];
@@ -14,8 +14,8 @@ void merge(int arr[], int s, int e){
 
   //Copy Values from original Array to Left Array
   //K is the pointer(Not c++ vala pointer mtlb ek tarik se location) which is starting index of original array
-  //Left array Copy
-  int k=s;
+  int k = s;
+  // Left array Copy
   for (int i = 0; i < lengthLeft; i++)
   {
     /* code */
@@ -35,26 +35,29 @@ void merge(int arr[], int s, int e){
   //Actual Merge Logic
   //Left array is already soreted
   //Right Array is already sorted
-  int leftIndex = 0;
-  int rightIndex = 0;
-  //! Impt yhi pe glti hoti hh mainArrayIndex pe
-  int mainArrayIndex = s;
+	int leftIndex = 0;
+	int rightIndex = 0;
+	//yahi pr galti karte h log
+	int mainArrayIndex = s;
 
-  while(leftIndex < lengthLeft && rightIndex < lengthLeft){
-    if(left[leftIndex] < right[rightIndex]){
-      arr[mainArrayIndex] = left[leftIndex];
-      mainArrayIndex++;
-      leftIndex++;
-    }else{
-      arr[mainArrayIndex] = left[rightIndex];
-      mainArrayIndex++;
-      rightIndex++;
-    }
-  }
+	while(leftIndex < lengthLeft &&  rightIndex < lengthRight) {
+		
+		if(left[leftIndex] < right[rightIndex] ) {
+			arr[mainArrayIndex] =  left[leftIndex];
+			mainArrayIndex++;
+			leftIndex++;
+		}
+		else {
+			arr[mainArrayIndex] =  right[rightIndex];
+			mainArrayIndex++;
+			rightIndex++;
+		}
+	}
 
+  
   //Left Array Exhaust but Right Array have Remaining Element 
   while(leftIndex < lengthLeft){
-    arr[mainArrayIndex] = right[leftIndex];
+    arr[mainArrayIndex] = left[leftIndex];
     mainArrayIndex++;
     leftIndex++;
   }
@@ -66,11 +69,13 @@ void merge(int arr[], int s, int e){
     rightIndex++;
   }
 
+
   //! one Thing Reamining i.e, to delete Heap (Dynamic) Array
   delete [] left;
   delete [] right;
 
 }
+
 
 
 void mergeSort(int arr[], int s, int e){
