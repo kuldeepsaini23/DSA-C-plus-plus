@@ -5,6 +5,7 @@
 **Leetcode:** [Link]()
 **GeeksForGeeks:** [Link]()
 **CodingNinja:** [Link]() -->
+<!-- ✅Done -->
 
 # Leetcode daily Challange
 - **29/09/2023**
@@ -24,6 +25,7 @@
 - **Beautiful Towers I:** [Leetcode](https://leetcode.com/problems/beautiful-towers-ii)
 - **Beautiful Arrangement II:** [Leetcode](https://leetcode.com/problems/beautiful-arrangement-ii)
 - **Murder:** [CodingNinja](https://www.codingninjas.com/studio/problems/square-root_630451)
+- **Product of Array Except Itself:** [LeetCode](https://leetcode.com/problems/product-of-array-except-self/description/)✅Done
 
 # Hard Questions
 - **Split Array Largest Sum:** [Leetcode](https://leetcode.com/problems/split-array-largest-sum/description/)
