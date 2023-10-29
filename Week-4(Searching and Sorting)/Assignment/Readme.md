@@ -1,11 +1,12 @@
 # Assignment Questions
 
 #### Question 1: K-diff Pairs in an Array
-- **Leetcode:** [Link](https://leetcode.com/problems/k-diff-pairs-in-an-array/description/)
-- **GeeksForGeeks:** [Link](https://practice.geeksforgeeks.org/problems/pairs-with-difference-k1713/1)
-- **GeeksForGeeks:** [Link](https://practice.geeksforgeeks.org/problems/count-distinct-pairs-with-difference-k1233/1)
-- **Coding Ninjas:** [Link](https://www.codingninjas.com/studio/problems/pair-difference-k_1089634)
-- **Coding Ninjas:** [Link](https://www.codingninjas.com/studio/problems/pair-with-diff-k_5393)
+- **Leetcode:** [Link](https://leetcode.com/problems/k-diff-pairs-in-an-array/description/)✅Done
+- **Pairs with difference k:** [GeeksForGeeks](https://practice.geeksforgeeks.org/problems/pairs-with-difference-k1713/1)**See it Again**
+- **Count distinct pairs with difference k
+:** [GeeksForGeeks](https://practice.geeksforgeeks.org/problems/count-distinct-pairs-with-difference-k1233/1)✅Done 
+- **Pairs with difference K:** [Coding Ninjas](https://www.codingninjas.com/studio/problems/pair-with-diff-k_5393)✅Done **See it Again**
+- **Coding Ninjas:** [Link](https://www.codingninjas.com/studio/problems/pair-difference-k_1089634)✅Done
 
 #### Question 2: Find K closest Elements
 - **Leetcode:** [Link](https://leetcode.com/problems/find-k-closest-elements/description/)

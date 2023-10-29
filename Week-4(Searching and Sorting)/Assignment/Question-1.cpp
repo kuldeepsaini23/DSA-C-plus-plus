@@ -5,7 +5,7 @@
 using namespace std;
 
  //!K-diff Pairs in an Array
-
+//* Set is taken so no dulicate will come in the answer 
  //Brute force
 
 
@@ -60,15 +60,18 @@ int main(){
 
   //* Binary search approach
   set<pair<int,int>> ans;
+  // int ans = 0;
   sort(arr.begin(),arr.end());
   for(int i =0; i<arr.size(); i++){
     int target = arr[i]+k;
     bool searching = binarySearch(arr,i+1,target);
     if(searching){
       ans.insert({arr[i],target});
+      // ans++;
     }
   }
   cout<<ans.size()<<endl;
+  // cout << ans << endl;
       
  return 0;
 }
