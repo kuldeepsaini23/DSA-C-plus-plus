@@ -25,7 +25,9 @@
 
 
 #### 4. Maximum Subarray Sum
-- **Leetcode** [Link](https://leetcode.com/problems/maximum-subarray/)
+- Best Method Kaden's Algorithm
+- Recrusion and Backtracking
+  - **Leetcode** [Link](https://leetcode.com/problems/maximum-subarray/)
 
 #### 5. Combination Sum
 - **Leetcode** [Link](https://leetcode.com/problems/combination-sum/)✅Done
@@ -42,3 +44,6 @@
 #### 9. Minimum Score Triangulation of Polygon
 - **Leetcode** [Link](https://leetcode.com/problems/minimum-score-triangulation-of-polygon/)✅Done
 
+#### 10. KnapSack
+- **Leetcode** [Link](https://leetcode.com/problems/partition-equal-subset-sum/)
+- **GeeksForGeeks** [Link](https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1)
