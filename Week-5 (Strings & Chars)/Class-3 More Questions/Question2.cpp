@@ -39,6 +39,7 @@ int garbageCollection(vector<string>& garbage, vector<int>& travel) {
         lastM = i;
       }
     }
+  }
 
     cout<<lastP<<" "<<lastG<<" "<<lastM<<" "<<endl;
     
@@ -64,7 +65,7 @@ int garbageCollection(vector<string>& garbage, vector<int>& travel) {
     int ans = (travelP + pickP) + (travelG + pickG) + (travelM + pickM);
     return ans;
 
-  }
+  
   
         
 }

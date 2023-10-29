@@ -3,7 +3,7 @@
 using namespace std;
 
 //* Permutation of Strings
-//! Without Reefrnce
+//! Without Refernce
 void printPermutation(string str, int i){
   //Base Case
   if(i>= str.size()){
@@ -22,8 +22,8 @@ void printPermutation(string str, int i){
   
 }
 
-//! With Reefrnce
-void printPermutation(string str, int i){
+//! With Refernce
+void printPermutationRefernce(string &str, int i){
   //Base Case
   if(i>= str.size()){
     cout<< str<<endl;
@@ -36,7 +36,7 @@ void printPermutation(string str, int i){
     /* code */
     swap(str[i],str[j]);
     //Recrusion Bhaiya
-    printPermutation(str, i+1);
+    printPermutationRefernce(str, i+1);
     //Backtracking
     swap(str[i], str[j]);
   }  

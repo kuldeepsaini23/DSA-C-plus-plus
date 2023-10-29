@@ -9,7 +9,7 @@ using namespace std;
  //-> Path closed
  //-> maze ke out of bound jaa rha hu
  //check is pos is already visited or not
-bool isSafe(int maze[][4], int row, int col, int srcx, int srcy, int newx, int newy, vector<vector<bool>> &visited){
+bool isSafe(int maze[][3], int row, int col, int srcx, int srcy, int newx, int newy, vector<vector<bool>> &visited){
   if(newx >= 0 && newx < row &&
     newy >= 0 && newy < col &&
     maze[newx][newy] == 1 && 
@@ -22,7 +22,8 @@ bool isSafe(int maze[][4], int row, int col, int srcx, int srcy, int newx, int n
 }
 
 
-void printAllPath(int maze[][4], int row, int col, int srcx, int srcy, string &output, vector<vector<bool>> &visited){
+
+void printAllPath(int maze[][3], int row, int col, int srcx, int srcy, string &output, vector<vector<bool>> &visited){
   //Base Case
   // destination coordinates are [row-1][col-1]
   if(srcx == row-1 && srcy == col-1){
@@ -97,31 +98,45 @@ void printAllPath(int maze[][4], int row, int col, int srcx, int srcy, string &o
   }
 
 }
+
+
+
+
+
+
+
  
 int main(){
-  int maze [4][4] = {
-    {1,0,0,0},
-    {1,1,0,0},
-    {1,1,1,0},
-    {1,1,1,1}
+  // int maze [4][4] = {
+  //   {1,0,0,0},
+  //   {1,1,0,0},
+  //   {1,1,1,0},
+  //   {1,1,1,1}
+  // };
+
+  int maze[3][3] = {
+    {1,1,1},
+    {1,0,1},
+    {1,1,1}
   };
 
-  int row = 4;
-  int col = 4;
+  int row = 3;
+  int col = 3;
   int srcx = 0;
   int srcy = 0;
   string output = "";
 
   //create a visited 2-D Array
-  vector<vector<bool>> visited(row, vector<bool>(col, false));
+  vector<vector<bool > > visited(row, vector<bool>(col, false));
 
   if(maze[0][0] == 0){
     //src position is closed, That means no Path exist
     cout<< "No Path Exists" << endl;
   }
   else{
-    visited[srcx][srcy] == true;
+    visited[srcx][srcy] = true;
     printAllPath(maze, row, col, srcx, srcy, output, visited);
+    
   }
       
  return 0;
