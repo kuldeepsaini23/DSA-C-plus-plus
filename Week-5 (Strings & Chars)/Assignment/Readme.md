@@ -112,16 +112,16 @@ An anagram is a word or phrase formed by rearranging the letters of a different 
 - **Geeeksforgeeks:** [Link](https://practice.geeksforgeeks.org/problems/index-of-the-first-occurrence-of-pattern-in-a-text/1)
 
 ### 15. Remove All adjacent Duplicates in the String-II
-- **LeetCode:** [Link](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)
+- **LeetCode:** [Link](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)✅Done
 - **Geeeksforgeeks:** [Link](https://practice.geeksforgeeks.org/problems/consecutive-elements2306/1)
 - **CodingNinja:** [Link](https://www.codingninjas.com/studio/problems/remove-all-adjacent-duplicates-in-string-ii_1117636)
 
 ### 16. Minimum Time Difference
-- **LeetCode:** [Link](https://leetcode.com/problems/minimum-time-difference/)
+- **LeetCode:** [Link](https://leetcode.com/problems/minimum-time-difference/)✅Done
 - **Geeeksforgeeks:** [Link](https://practice.geeksforgeeks.org/problems/minimum-time-difference-1587115620/1)
 
 ### 17. Number of Last Beams in a Bank
-- **LeetCode:** [Link](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/description/)
+- **LeetCode:** [Link](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/description/)✅Done
 
 ### 18. Implement std::string::erase()
 - This is implemented in the Week-6 doubt class with custom substr and concat function.
