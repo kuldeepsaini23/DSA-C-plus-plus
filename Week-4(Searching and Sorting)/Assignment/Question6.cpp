@@ -4,7 +4,7 @@ using namespace std;
 //*  Painters Partition
 // n--> no of Boards
 // k -> no of Palong longers
-bool isPossibleSolution(int arr[], int n, int k, int sol){
+bool isPossibleSolution(int arr[], int n, int k, long long sol){
   long long timeSum = 0;
   int counter = 1;
 
