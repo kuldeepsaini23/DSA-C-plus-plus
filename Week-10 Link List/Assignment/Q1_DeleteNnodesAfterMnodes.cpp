@@ -20,7 +20,7 @@ struct Node
 
 struct Node *start = NULL;
 
-/* Function to print nodes in a given linked list */
+/* Function to print zs in a given linked list */
 void printList(struct Node *node)
 {
     while(node != NULL)
