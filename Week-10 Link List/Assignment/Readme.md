@@ -39,6 +39,8 @@
 ### 13. Swapping Nodes in a Linked List
 - [Leetcode](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)✅
 
+### 14. Remove Zero Sum Consecutive Nodes from Linked List
+- [Leetcode](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/)✅
 
 
 # Extra Questions
