@@ -122,10 +122,5 @@ int main(){
   //Printing DLL --> Doubbly Linked List
   printLinkedList(head);
 
-
-
- 
-
-      
  return 0;
 }

@@ -83,9 +83,10 @@ void printTopView(Node* root){
     q.pop();
 
     Node* frontNode = temp.first;
+    //horizontal distance
     int hd = temp.second;
 
-    //If tehre is no entry for hd in map, then create a new entry
+    //If there is no entry for hd in map, then create a new entry
     if(horizontalIndexToNode.find(hd) == horizontalIndexToNode.end()){
       horizontalIndexToNode[hd] = frontNode->data;
     }

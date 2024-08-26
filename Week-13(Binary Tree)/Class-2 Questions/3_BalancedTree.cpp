@@ -8,7 +8,7 @@ public:
   TreeNode* right;
 
   TreeNode(int val){
-    this->data = val;
+    this-> val = val;
     this->left = NULL;
     this->right = NULL;
   }

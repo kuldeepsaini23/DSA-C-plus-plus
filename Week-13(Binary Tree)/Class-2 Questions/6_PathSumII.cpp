@@ -1,4 +1,5 @@
 #include <iostream>
+#include<vector>
 using namespace std;
 
 class TreeNode
@@ -17,33 +18,45 @@ public:
 };
 
 //* Path Sum - II
-bool helper(TreeNode *root, int targetSum, int sum)
+void helper(TreeNode *root, int targetSum, vector<int> temp, vector<vector<int>> &ans, int sum)
 {
-  // Base Case
-  // Base Case
+  // Base case
   if (root == NULL)
   {
-    return false;
+    return;
   }
+
+  // Ek case solve
 
   sum += root->val;
+  temp.push_back(root->val);
+
+  // extra case
   if (root->left == NULL && root->right == NULL)
   {
-    // I am currently standing at the leaf Node
-    return sum == targetSum ? true : false;
+    // Verify
+    if (sum == targetSum)
+    {
+      ans.push_back(temp);
+    }
+    else
+    {
+      return;
+    }
   }
 
-  // Left Ans
-  bool leftAns = helper(root->left, targetSum, sum);
-  // Right Ans
-  bool rightAns = helper(root->right, targetSum, sum);
-  return leftAns || rightAns;
+  // Recrusion work
+  // Left part
+  helper(root->left, targetSum, temp, ans, sum);
+  helper(root->right, targetSum, temp, ans, sum);
 }
 
-bool hasPathSum(TreeNode *root, int targetSum)
+vector<vector<int>> pathSum(TreeNode *root, int targetSum)
 {
+  vector<vector<int>> ans;
+  vector<int> temp;
   int sum = 0;
-  bool ans = helper(root, targetSum, sum);
+  helper(root, targetSum, temp, ans, sum);
   return ans;
 }
 

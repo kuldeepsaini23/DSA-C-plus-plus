@@ -72,7 +72,7 @@ void postOrder(Node* root){
   cout << root->data <<" ";
 }
 
-//* It is using Level order tarversal
+//* It is using Level order traversal
 void printBottomView(Node* root){
   map<int,int> horizontalIndexToNode;
   queue<pair<Node*,int>> q;

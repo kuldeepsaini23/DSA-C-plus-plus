@@ -16,7 +16,7 @@ class Node{
   }
 };
 
-//Creating Binary Trree
+//Creating Binary Tree
 Node* createTree(){
   cout <<"enter the value for the Node: ";
   int value;
@@ -144,7 +144,7 @@ void boundaryTraversal(Node* root){
 
   //* new and smaj ane vala method
   cout << root->data << " ";
-  printLeafBoundary(root->left);
+  printLeftBoundary(root->left);
   printLeafBoundary(root->left);
   printLeafBoundary(root->right);
   printRightBoundary(root->right);

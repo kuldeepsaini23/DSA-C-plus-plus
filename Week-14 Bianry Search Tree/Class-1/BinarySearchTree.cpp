@@ -214,6 +214,12 @@ Node* deleteFromtBST(Node* root, int target){
       //Delete actual maxi
       root->left = deleteFromtBST(root->left, maxi->data);
       return root;
+
+      // OR
+      // Node* mini = minValue(root->right);
+      // root->data = mini->data;
+      // root->right = deleteFromtBST(root->right, mini->data);
+      // return root;
     }
   }
   else if(root->data > target){
